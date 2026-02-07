@@ -1,4 +1,4 @@
-![Banner](<img width="1536" height="1024" alt="Mobile-Automation png" src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" />)
+<img width="1536" height="1024" alt="Mobile-Automation png" src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" />
 
 
 # Hi 👋 I'm Gitesh
