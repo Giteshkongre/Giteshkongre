@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="Mobile-Automation png" src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" />" width="100%" />
+  <img src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" width="100%" />
 </p>
 
 <br>
@@ -7,8 +7,12 @@
 <h1 align="center">Hi 👋 I'm Gitesh</h1>
 
 <p align="center">
-🚀 Mobile Automation Engineer | Appium | Android | iOS | Device Farm | C#
+  <img src="https://img.shields.io/badge/Appium-MobileAutomation-green" />
+  <img src="https://img.shields.io/badge/CSharp-.NET-blue" />
+  <img src="https://img.shields.io/badge/Android-Supported-success" />
+  <img src="https://img.shields.io/badge/iOS-Supported-purple" />
 </p>
+
 
 <br>
 
