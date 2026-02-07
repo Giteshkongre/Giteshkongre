@@ -1,9 +1,16 @@
-<img width="1536" height="1024" alt="Mobile-Automation png" src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" />
+<p align="center">
+  <img src="<img width="1536" height="1024" alt="Mobile-Automation png" src="https://github.com/user-attachments/assets/710470de-92b6-4db1-b7a0-afd978caefe9" />" width="100%" />
+</p>
 
+<br>
 
-# Hi 👋 I'm Gitesh
+<h1 align="center">Hi 👋 I'm Gitesh</h1>
 
-🚀 Mobile Automation Engineer specializing in **Appium-based distributed device farm automation** for Android and iOS real devices.
+<p align="center">
+🚀 Mobile Automation Engineer | Appium | Android | iOS | Device Farm | C#
+</p>
+
+<br>
 
 ---
 
